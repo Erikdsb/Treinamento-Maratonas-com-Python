@@ -16,5 +16,5 @@ elif (x < 0 and y > 0):
 elif (x < 0 and y < 0):
     print("R3", end="")
 
-elif (x > 0 and y < 0 and x == 0):
+elif (x > 0 and y < 0 ):
     print("R4", end="")
